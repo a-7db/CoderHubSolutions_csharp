@@ -7,6 +7,7 @@
             string expression = "3[a]2[bc]";
             string output = string_builder(expression);
             Console.WriteLine(output);
+
             Console.ReadKey();
         }
 
